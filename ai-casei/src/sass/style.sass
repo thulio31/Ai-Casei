@@ -13,19 +13,32 @@
     background-color: variables.$secundary-white
        
 
-    ul
-        display: flex
-        @include mixins.flex-end 
+    nav
+        padding: 20px
 
-        a
-            text-decoration: none
+        ul
+            display: flex
+            @include mixins.flex-end 
 
-            li
-                list-style: none
-                color: #1d1d1d
-                font-weight: 500
-                text-transform: uppercase
-                padding: 0.5rem
+            a
+                text-decoration: none
+
+                li
+                    list-style: none
+                    color: #1d1d1d
+                    font-weight: 500
+                    text-transform: uppercase
+                    padding: 0.6rem
+                    margin-top: -1rem
+                    text-shadow: -1px 0px 2px #aaaa
+
+                    &:hover
+                        color: variables.$secundary-red
+                        transition: 0.4s
+
+
+                            
+                        
 
     
 
