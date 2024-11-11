@@ -1,0 +1,31 @@
+@use 'variables'
+@use 'mixins'
+
+*
+    padding: 0
+    margin: 0
+    box-sizing: border-box
+    font-family: "Poppins", sans-serif
+    font-weight: 300
+    font-style: normal
+    
+.main-menu
+    background-color: variables.$secundary-white
+       
+
+    ul
+        display: flex
+        @include mixins.flex-end 
+
+        a
+            text-decoration: none
+
+            li
+                list-style: none
+                color: #1d1d1d
+                font-weight: 500
+                text-transform: uppercase
+                padding: 0.5rem
+
+    
+
