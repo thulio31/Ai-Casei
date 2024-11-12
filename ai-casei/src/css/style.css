@@ -8,7 +8,7 @@
 }
 
 .main-menu {
-  background-color: #d4d1c1;
+  background-color: #837D72;
 }
 .main-menu nav {
   padding: 20px;
@@ -24,16 +24,12 @@
 }
 .main-menu nav ul a li {
   list-style: none;
-  color: #1d1d1d;
-  font-weight: 500;
+  color: #FFFFFF;
+  font-weight: 400;
   text-transform: uppercase;
   padding: 0.6rem;
-  margin-top: -1rem;
-  text-shadow: -1px 0px 2px rgba(170, 170, 170, 0.6666666667);
-}
-.main-menu nav ul a li:hover {
-  color: #C84648;
-  transition: 0.4s;
+  margin-top: -0.5rem;
+  text-shadow: -1px 0px 2px rgba(153, 151, 151, 0.6666666667);
 }
 
 /*# sourceMappingURL=style.css.map */
