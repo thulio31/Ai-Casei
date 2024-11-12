@@ -11,7 +11,22 @@
     
 .main-menu
     background-color: variables.$tertiary-white
+    display: flex
        
+    .logo 
+
+        a
+            text-decoration: none
+        li
+            @include mixins.logo-style            
+
+            &:hover        
+                color: #eca39f
+                transition: 0.5s
+                text-shadow: 0px -1px 2px #464444          
+        
+        i
+            padding-left: 10px      
 
     nav
         padding: 20px
@@ -32,9 +47,28 @@
                     margin-top: -0.5rem
                     text-shadow: -1px 0px 2px #999797aa
 
-                    // &:hover
-                    //     color: variables.$secundary-red
-                    //     transition: 0.4s
+                    &:hover
+                        color: variables.$primary-red
+                        transition: 0.5s
+                        text-shadow: 0px -1px 2px #464444
+
+.footer-main
+    background-color: variables.$tertiary-white
+    position: static
+    display: flex
+    margin-top: 204px
+
+
+
+    .content-slogan a
+        @include mixins.logo-style
+        text-decoration: none
+        font-weight: bold
+    
+        &:hover        
+            color: #eca39f
+            transition: 0.5s
+            text-shadow: 0px -1px 2px #464444
 
 
                             
