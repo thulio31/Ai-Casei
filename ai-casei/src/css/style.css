@@ -7,8 +7,12 @@
   font-style: normal;
 }
 
+body {
+  background-color: #fdfdfd;
+}
+
 .main-menu {
-  background-color: #837D72;
+  background-color: #6b6a6a;
   display: flex;
 }
 .main-menu .logo a {
@@ -58,7 +62,7 @@
 }
 
 .footer-main {
-  background-color: #837D72;
+  background-color: #6b6a6a;
   position: static;
   display: flex;
   margin-top: 204px;
@@ -77,6 +81,10 @@
   color: #eca39f;
   transition: 0.5s;
   text-shadow: 0px -1px 2px #464444;
+}
+
+.btn-default {
+  background-color: #a90c0e;
 }
 
 /*# sourceMappingURL=style.css.map */
