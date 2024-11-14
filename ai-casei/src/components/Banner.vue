@@ -2,7 +2,7 @@
 <div>
     <div class="container">
         <div class="content-card">
-
+            <div class="slogan">O início do seu 'felizes para sempre' começa aqui.</div>
         </div>
         <div class="img-card">
 
@@ -45,8 +45,6 @@ export default{
     display: flex;
     background-color: rgb(255, 255, 255);
     margin-top: 1px;
-    border-top: 1px solid rgb(0, 0, 0);
-    border-bottom: 1px solid rgb(0, 0, 0);
 }
 
     /* Estilo para o .content-card */
@@ -67,5 +65,13 @@ export default{
     width: 50%;
     height: 450px;
     z-index: 1; /* Card com z-index 1 (ficará acima do content-card) */
+}
+
+.slogan{
+    font-size: 28px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative; 
+    top: 200px;
+    right: -20px;
 }
 </style>
