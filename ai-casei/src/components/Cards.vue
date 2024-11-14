@@ -68,13 +68,21 @@
 
 .card{
     background-color: rgb(253, 253, 253);
-    width: 300px;
-    height: 410px;
+    width: 290px;
+    height: 390px;
     margin: 20px;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 5px 5px 10px; ;
+    transform: translateY(-10px);
+    transition: 0.4s;
+        
+}
+
 
 .img-card img{
 width: 100%;
@@ -106,6 +114,7 @@ width: 100%;
 .btn-default:hover{    
     animation: btn 0.5s infinite alternate ease-in-out; 
 }
+
 
 @keyframes btn{
     to{
