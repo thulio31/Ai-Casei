@@ -1,8 +1,19 @@
 <template>
     <div>
         <div class="footer-main">
+            <div class="contact">
+                <div class="contacts">
+                    <h3>Contato</h3>
+                    <li><i class="fa-solid fa-envelope"></i> AiCasei@gmail.com</li>
+                    <li><i class="fa-solid fa-phone"></i> 55 (31) 9 9293-8212</li>
+                    <li>CEP: 1721914</li>
+                    <li> Rua Almeida Soares 192</li>
+                    <li><a href=""><i class="fa-solid fa-location-dot"></i> Como Chegar?</a></li>
+                </div>
+            </div>
             <div class="links">
                 <div class="lisks-content">
+                    <h3>Links</h3>
                     <RouterLink><li>Espaços</li></RouterLink>
                     <RouterLink><li>Sobre Nos</li></RouterLink>
                     <RouterLink><li>Noivos</li></RouterLink>
@@ -20,11 +31,9 @@
             </div>
             <div class="social">
                 <div class="social-content">                    
+                    <h3>Siga-nos</h3>
                     <li>
-                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-facebook"></i></a>
                     </li>
                     <li>
                         <a href="#"><i class="fab fa-instagram"></i></a>
@@ -40,81 +49,91 @@
 
 <style scoped>
 .footer-main{
-    padding: 50px 65px;
+    padding: 50px 0px;
     width: 100%;
     height: auto;
-    
-    justify-content: center;
     display: flex;
-    text-align: center;
+}
+h3{
+    color: #FFFFFF;
+    text-shadow: 0px -1px 2px #808080;
+    padding-bottom: 25px;
+    font-size: 1.4rem
+}
+.footer-main li, .footer-main p{
+    list-style: none;
+    
+    color: #FFFFFF;
 }
 
 .footer-main a{
- text-decoration: none;
- color: #FFFFFF;
+    text-decoration: none;
 }
 
-.footer-main li{
-    list-style: none;
+.footer-main i{
+    color: #C84648;
 }
 
-.content .content-slogan{
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.content .content-slogan p{
-    padding:40px 200px;
-    font-weight: 400;
-    color: #FFFFFF;
-    text-shadow: -1px 1px 0px #575656aa;
-    font-size: 1.2rem;
-}
-
-.lisks-content{    
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+.contact, .links, .social{
+    padding: 0px 20px;
     
 }
 
-.lisks-content li{
-    margin: 15px;
-    font-weight: 400;
-}
-
-.lisks-content li:hover{
-    color: #eca39f;
-    text-decoration: underline;
-    transition: 0.3s ease-in-out;
+.contact li, .links li, .social li{
+   padding: 9px 0px;
+   font-size: 16px;
 }
 
 
-@keyframes icons{
-    to{
-        color: #eca39f;
-        transform: translateX(10px);
-    }
+.social i{
+    font-size: 1.4rem;
 }
 
-.social-content{
+.links{
+    width: 15%;
+}
+
+.social{
+    width: 25%;
+}
+
+.social li{
+    padding-left: 50px;
+}
+.social h3{
+    padding-left: 40px;
+}
+.content{
+    width: 35%;
+}
+
+.content li{
     text-align: center;
-    justify-content: center;
-    align-items: center;     
-}
-.social-content i{
-    font-size: 1.3rem; 
 }
 
-.social-content li{
-    margin: 15px;
-    font-size: 1.2rem;
+.content p{    
+    padding: 20px 0px;
 }
 
-.social-content i:hover{
-    animation: icons 1.2s infinite alternate;
+.contact{
+    width: 20%;
+    margin-left: 20px;
 }
+
+.links li:hover{
+    text-decoration: underline;
+    transition: 0.4s
+}
+
+.contacts a{
+    color: #FFFFFF;
+}
+.contacts a:hover{
+    color: #C84648;
+    transition: 0.4s;
+}
+
+
 </style>
 
 <script>  
