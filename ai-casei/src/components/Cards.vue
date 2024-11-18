@@ -58,12 +58,13 @@
 </template>
 <style scoped>
 .container{
-    max-width: 1400px;
+    width: 100%;
     height: auto;
     justify-content: center;
     display: flex;
     text-align: center;
     align-items: center;
+    justify-content: center;
 }
 
 .card{
