@@ -7,6 +7,7 @@
     <Flag />
 
     <Carrousel />
+    <Paises />
     <Footer />
   </div>
 </template>
@@ -18,6 +19,7 @@ import NavBar from './components/NavBar.vue';
 import Flag from './components/Flag.vue';
 import Banner from './components/Banner.vue';
 import Carrousel from './components/Carrousel.vue';
+import Paises from './components/Paises.vue';
 
 export default{
   name: 'App',
@@ -27,6 +29,7 @@ export default{
     Cards,
     Flag,
     Carrousel,
+    Paises,
     NavBar
   }  
 }
