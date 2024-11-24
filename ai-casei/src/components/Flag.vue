@@ -2,7 +2,7 @@
     <div>
         <div class="container">
             <div class="content">
-                <h2><span>AiCasei</span> Transformando sonhos de casamento em realidade!</h2>
+                <h2>AiCasei Transformando sonhos de casamento em realidade!</h2>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
                 <button class="btn-default">Click Aqui</button>
                 <button class="btn-alter">Click Aqui</button>
@@ -39,10 +39,7 @@
     padding-top: 16%;  
 }
 
-span{
-    color: #C84648;
-    font-weight: 700;
-}
+
 
 .btn-default{
     background-color: #C84648;

@@ -60,7 +60,6 @@
 .container{
     width: 100%;
     height: auto;
-    justify-content: center;
     display: flex;
     text-align: center;
     align-items: center;

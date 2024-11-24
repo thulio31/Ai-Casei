@@ -4,10 +4,10 @@
     <Banner />
     <RouterView />
     <Cards />
+    <Cards />
     <Flag />
 
     <Carrousel />
-    <Paises />
     <Footer />
   </div>
 </template>
