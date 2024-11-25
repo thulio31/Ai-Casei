@@ -4,6 +4,7 @@
     <Banner />
     <RouterView />
     <Cards />
+    <Carousel />
     <Cards />
     <Flag />
 
@@ -18,7 +19,7 @@ import Cards from './components/Cards.vue';
 import NavBar from './components/NavBar.vue';
 import Flag from './components/Flag.vue';
 import Banner from './components/Banner.vue';
-import Carrousel from './components/Carrousel.vue';
+import Carousel from './components/Carousel.vue';
 import Paises from './components/Paises.vue';
 
 export default{
@@ -28,7 +29,7 @@ export default{
     Banner,
     Cards,
     Flag,
-    Carrousel,
+    Carousel,
     Paises,
     NavBar
   }  
