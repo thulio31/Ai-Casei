@@ -10,11 +10,11 @@
                 <header> 
                     <nav id="nav">
                         <ul>
-                             <RouterLink><li>Meu casamento</li></RouterLink><!--colocar os diretorios -->
-                            <RouterLink><li>Espaços</li></RouterLink>
-                            <RouterLink><li>Noivos</li></RouterLink>     
-                            <RouterLink><li>Serviços</li></RouterLink>                                                   
-                           <RouterLink><li>Lua de mel</li></RouterLink>                            
+                             <RouterLink to="/"><li>Meu casamento</li></RouterLink><!--colocar os diretorios -->
+                            <RouterLink to="Espacos"><li>Espaços</li></RouterLink>
+                            <RouterLink to="Noivos"><li>Noivos</li></RouterLink>     
+                            <RouterLink to="Servicos"><li>Serviços</li></RouterLink>                                                   
+                           <RouterLink to="LuaDeMel"><li>Lua de mel</li></RouterLink>                            
                         </ul>
                     </nav>
                 </header>
