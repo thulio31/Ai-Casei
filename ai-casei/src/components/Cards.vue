@@ -58,7 +58,7 @@
 </template>
 <style scoped>
 .container{
-    max-width: 1400px;
+    max-width: 100%;
     height: auto;
     justify-content: center;
     display: flex;
