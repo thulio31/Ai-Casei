@@ -12,6 +12,7 @@ import Footer from './components/Footer.vue';
 import Cards from './components/Cards.vue';
 import Index from './components/Index.vue';
 import NavBar from './components/NavBar.vue';
+import CardsCarousel from './components/CardsCarousel.vue';
 
 export default{
   name: 'App',

@@ -50,8 +50,9 @@
             <h4>Mais de <span>67</span> clientes satisfeitos</h4>
           </div>
 
-          <button class="btn-default">Adicionar ao Carrinho</button>
         </div>
+        
+        <button class="btn-default">Adicionar ao Carrinho</button>
         </div>
       </div>
 
@@ -90,6 +91,24 @@
           únicos que transmitem emoção e autenticidade. Ele mistura técnicas clássicas e contemporâneas, transitando entre
           fotografia analógica e digital com maestria.</p>
       </div>
+    </div>
+    <div class="feedback">
+      <div class="card">
+        <div class="sub">
+        <img src="/public/img/p1.jpg" alt="" width="60px" height="60px">        
+        <p>Enviada 12/11/24 12:51 hrs</p>
+        </div>
+        <div class="rodape">
+          <h3><i class="fa-solid fa-star"></i> 4.9</h3>
+          <h2>Excelente trabalho</h2>
+          <p>João tem um talento impressionante para capturar momentos especiais de maneira natural 
+          e emocionante. Seu estilo mistura criatividade, técnica e um olhar único, tornando suas fotos
+          verdadeiras obras de arte.</p>
+        </div> 
+      </div>      
+    </div>
+    <div class="loc">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2964.841763880439!2d-43.89762512586055!3d-19.91458083782646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa69bdaaeacb203%3A0x2aff57c543b23c63!2sRua%20Padre%20Feij%C3%B3%20-%20Leste%2C%20Belo%20Horizonte%20-%20MG%2C%2030285-350!5e1!3m2!1spt-BR!2sbr!4v1733150427521!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
   </template>
@@ -136,17 +155,123 @@
   </script>
   
   <style scoped>
+.feedback{
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+}
+
+.card{
+    background-color: rgb(253, 253, 253);
+    width: 290px;
+    height: 390px;
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.sub{
+  display: flex;
+}
+
+.sub p{
+  margin-top: 10%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-weight: 400;
+}
+
+.rodape h3{
+  margin-left: 10px;
+  font-weight: 400
+}
+
+.rodape h2{
+  text-align: center;
+}
+
+.rodape p {
+  
+  padding: 15px;
+}
+.card img{
+  border-radius: 55px;
+  border: 1px solid #1d1d1d;
+  margin: 8px;
+}
+
+.fa-star {
+  color: #e2b212;
+}
 .global{
   display: flex;
 }
 
 .forms{
-  width: 40%;
+  width: 27%;
+  height: 470px;
+  margin-right: 60px;
+  border-radius: 20px;
+  padding: 18px;  
 }
 
+.form h1{
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-shadow: 1px -2px 3px #aaaaaa69
+}
 
+.form h3{
+  margin-top: 10px;
+}
+
+.form h3 span{
+  color:#C84648;
+  font-weight: 500;
+}
+
+.form button{
+  margin-left: 25%;
+  margin-top: 10%;
+}
+.form h3 a{
+  text-decoration: none;
+  color: #000;
+}
+
+.form h3 a:hover{
+  text-decoration: underline;
+  color:#C84648;
+  font-weight: 400;
+}
+
+.fa-location-dot{
+  color: #C84648;
+}
+
+.colums i{
+  color: #C84648;
+}
+
+.colum{
+  background-color: #ffffff;
+  border-radius:14px ;  
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.colum h3, .colum h4{
+  margin-left: 16px;
+}
+
+.colum h3{
+  margin-top: 17px;
+}
   .carousel-container {
-    width: 50%;
+    width: 57%;
     margin: auto;
     position: relative;
     display: flex;
