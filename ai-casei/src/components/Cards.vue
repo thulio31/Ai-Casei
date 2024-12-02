@@ -7,11 +7,9 @@
                 </div>
                 <div class="content">
                     <h3>Teste Casamento</h3>
-                    <p>lorem ipsulum test ray humber
-                        lorem ipsulum test ray humber
-                        ray humber
+                    <p>com o link
                     </p>
-                    <button class="btn-default">Ver Pacotes</button>
+                    <a href="/views/PacoteFotografo.vue"><button class="btn-default">Ver Pacotes</button></a>
                 </div>
             </div>
             <div class="card">

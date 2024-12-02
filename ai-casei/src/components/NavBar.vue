@@ -10,11 +10,17 @@
                 <header> 
                     <nav id="nav">
                         <ul>
-                             <RouterLink to="/"><li>Meu casamento</li></RouterLink><!--colocar os diretorios -->
-                            <RouterLink to="Espacos"><li>Espaços</li></RouterLink>
+                            <RouterLink to="/"><li>Meu casamento</li></RouterLink><!--colocar os diretorios -->
+                            <RouterLink to="Espacos"><li>Espaços
+                                <div class="sub-menu">
+                                    <ul>
+                                        <li><RouterLink>fotografo</RouterLink></li>
+                                    </ul>
+                                </div>
+                            </li></RouterLink>
                             <RouterLink to="Noivos"><li>Noivos</li></RouterLink>     
                             <RouterLink to="Servicos"><li>Serviços</li></RouterLink>                                                   
-                           <RouterLink to="LuaDeMel"><li>Lua de mel</li></RouterLink>                            
+                            <RouterLink to="LuaDeMel"><li>Lua de mel</li></RouterLink>                            
                         </ul>
                     </nav>
                 </header>
@@ -30,5 +36,16 @@ export default{
 </script>
 
 <style scoped>
+.main-menu{
+    position: fixed;
+    z-index: 5;
+    width: 100%;
+}
+.sub-menu{
+    display: none;
+}
 
+nav ul li:hover .sub-menu{
+    display: block;
+}
 </style>
