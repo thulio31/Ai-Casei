@@ -18,3 +18,16 @@ export default{
   } 
 }
 </script>
+
+<style scoped>
+.btn-default{
+    background-color: #C84648;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    padding: 10px 12px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+</style>

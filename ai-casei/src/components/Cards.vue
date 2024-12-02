@@ -9,7 +9,7 @@
                     <h3>Fotografos </h3>
                     <p>Escolha os melhores fotografos para registrar o seu momento especial
                     </p>
-                    <a href="/views/PacoteFotografo.vue"><button class="btn-default">Ver Pacotes</button></a>
+                    <a href="/Fotografos"><button class="btn-default">Ver Pacotes</button></a>
                 </div>
             </div>
             <div class="card">
