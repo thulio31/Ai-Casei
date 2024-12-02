@@ -2,7 +2,6 @@
   <div>
     <NavBar />
     <RouterView />
-    <Cards />
     <Index />
     <Footer />
   </div>

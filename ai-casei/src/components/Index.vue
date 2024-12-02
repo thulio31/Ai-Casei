@@ -1,31 +1,97 @@
 <template>
-    <main class="carousel-container">
-      <!-- Carrossel -->
-      <div class="carousel">
-        <div
-          v-for="(item, index) in items"
-          :key="index"
-          :class="['item', { active: currentIndex === index }]"
-        >
-          <img :src="item.image" :alt="item.caption" />
-          <p class="caption">{{ item.caption }}</p>
+  <div>
+    <div class="global">
+      <main class="carousel-container">
+        <!-- Carrossel -->
+        <div class="carousel">
+          <div
+            v-for="(item, index) in items"
+            :key="index"
+            :class="['item', { active: currentIndex === index }]"
+          >
+            <img :src="item.image" :alt="item.caption" />
+          
+          </div>
+        </div>
+    
+        <!-- Botões de Navegação -->
+        <button class="btn prev" @click="prevItem"><i class="fa-solid fa-angles-left"></i></button>
+        <button class="btn next" @click="nextItem"><i class="fa-solid fa-angles-right"></i></button>
+    
+        <!-- Pontos de Navegação
+        <div class="dots">
+          <span
+            v-for="(_, index) in items"
+            :key="index"
+            :class="['dot', { active: currentIndex === index }]"
+            @click="goToItem(index)"
+          ></span>
+        </div> -->
+      </main>
+      <div class="forms">
+        <div class="form">
+          <h1>Joao Fagas De Paula</h1>
+          <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
+          <h3><i class="fa-solid fa-location-dot"></i> <a href="">Sabara, Centro 192</a></h3>
+          <div class="colums">
+          <div class="colum">
+
+          </div>
+          <div class="colum">
+            <h3><i class="fa-solid fa-coins"></i> Preço</h3>
+            <h4>R$ 240,00 p/ Album</h4>
+          </div>
+          <div class="colum">
+            <h3><i class="fa-solid fa-calendar-days"></i> Horario</h3>
+            <h4>Segunda a Sabado 8hrs a 22hrs</h4>
+          </div>
+          <div class="colum">
+            <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
+            <h4>Mais de <span>67</span> clientes satisfeitos</h4>
+          </div>
+
+          <button class="btn-default">Adicionar ao Carrinho</button>
+        </div>
         </div>
       </div>
-  
-      <!-- Botões de Navegação -->
-      <button class="btn prev" @click="prevItem">Prev</button>
-      <button class="btn next" @click="nextItem">Next</button>
-  
-      <!-- Pontos de Navegação -->
-      <div class="dots">
-        <span
-          v-for="(_, index) in items"
-          :key="index"
-          :class="['dot', { active: currentIndex === index }]"
-          @click="goToItem(index)"
-        ></span>
+
+
+    </div>
+    <div class="content">
+      <div class="conteiner-cont">
+        <div class="cont-p">
+          <i class="fa-solid fa-camera"></i>
+          fotografo
+        </div>
+        <div class="cont-p">
+          <i class="fa-solid fa-person"></i>
+          otima interação
+        </div>
+        <div class="cont-p">
+          <i class="fa-solid fa-icons"></i>
+          qualidade impecavel
+        </div>
       </div>
-    </main>
+      <div class="informacao">
+        <p>João Fagas de Paula é um renomado fotógrafo brasileiro, conhecido por suas fotografias 
+          que capturam a essência das paisagens naturais e culturais do Brasil. Nascido em 1985 na 
+          pequena cidade de Tiradentes, em Minas Gerais, João descobriu sua paixão pela fotografia 
+          ainda jovem, quando ganhou sua primeira câmera de filme aos 14 anos.</p>
+
+        <p>Formação e Trajetória
+          João estudou Artes Visuais na Universidade Federal de Minas Gerais (UFMG), onde aprofundou
+          seus conhecimentos sobre fotografia e composição visual. Após a graduação, ele embarcou em 
+          uma viagem de três anos pelo Brasil, documentando as tradições, festividades e paisagens do
+          país. Essas experiências deram origem à sua primeira exposição, intitulada "Brasil Intocado",
+          que foi apresentada em museus de Belo Horizonte e São Paulo, recebendo aclamação da crítica.</p>
+
+        <p>Estilo Fotográfico
+          Fagas de Paula é conhecido por suas imagens vibrantes, com ênfase no uso natural da luz e em enquadramentos
+          únicos que transmitem emoção e autenticidade. Ele mistura técnicas clássicas e contemporâneas, transitando entre
+          fotografia analógica e digital com maestria.</p>
+      </div>
+    </div>
+  </div>
   </template>
   
   <script>
@@ -36,16 +102,13 @@
         currentIndex: 0, // Índice do slide atual
         items: [
           {
-            image: "https://bit.ly/34xczKy",
-            caption: "Caption for Image 1",
+            image: "https://bit.ly/34xczKy",            
           },
           {
-            image: "https://bit.ly/3lkp5DW",
-            caption: "Caption for Image 2",
+            image: "https://bit.ly/3lkp5DW",            
           },
           {
             image: "https://bit.ly/3iMHuI1",
-            caption: "Caption for Image 3",
           },
         ],
       };
@@ -73,13 +136,23 @@
   </script>
   
   <style scoped>
+.global{
+  display: flex;
+}
+
+.forms{
+  width: 40%;
+}
+
+
   .carousel-container {
-    width: 80%;
+    width: 50%;
     margin: auto;
     position: relative;
     display: flex;
     flex-direction: column;
     gap: 16px;
+    margin-left: 40px;
   }
   
   .carousel {
@@ -106,34 +179,26 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: center;
+    object-position: center;    
+    border-radius: 20px;
+    
   }
   
-  .caption {
-    width: 100%;
-    padding: 8px;
-    position: absolute;
-    bottom: 0;
-    text-transform: uppercase;
-    text-align: center;
-    font-size: 12px;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-  }
+ 
   
   .btn {
     padding: 1em 2em;
     position: absolute;
     transform: translateY(-50%);
-    top: 50%;
+    top: 53%;
     outline: none;
     border: none;
     cursor: pointer;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 1.6rem;
     font-weight: 900;
-    color: #10100e;
-    background-color: #ffffe6;
+    color: #ffffff;
+    background-color: transparent;
     transition: transform 0.2s ease-in-out;
   }
   
@@ -172,7 +237,7 @@
   
   .dot.active,
   .dot:hover {
-    background-color: #ffffe6;
+    background-color: #C84648;
   }
   </style>
   
