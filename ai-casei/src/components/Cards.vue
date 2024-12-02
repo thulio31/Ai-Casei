@@ -3,11 +3,11 @@
         <div class="container">
             <div class="card">
                 <div class="img-card">
-                    <img src="/img/img-1.jpg" alt="">
+                    <img src="/public/img/fotografo-5.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>Teste Casamento</h3>
-                    <p>com o link
+                    <h3>Fotografos </h3>
+                    <p>Escolha os melhores fotografos para registrar o seu momento especial
                     </p>
                     <a href="/views/PacoteFotografo.vue"><button class="btn-default">Ver Pacotes</button></a>
                 </div>
@@ -62,6 +62,7 @@
     text-align: center;
     align-items: center;
     justify-content: center;
+    margin-top: 70px;
 }
 
 .card{
@@ -84,6 +85,8 @@
 
 .img-card img{
 width: 100%;
+height: 200px;
+border-bottom: 1px solid #1d1d11ad;
 }
 
 .content{
@@ -93,9 +96,14 @@ width: 100%;
     padding: 10px;
 }
 
+.content h3{
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
 .content p{
     padding: 10px;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 .btn-default{

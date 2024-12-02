@@ -1,11 +1,7 @@
 <template>
   <div>
-    <Banner />    
-    <Cards />
-    <Apresentacao />
-    <Cards />
     <Flag />
-    <Carrousel />
+    <Cards />   
   </div>
 </template>
 
