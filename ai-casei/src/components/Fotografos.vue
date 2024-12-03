@@ -7,13 +7,12 @@
                     <p>Joao Fagas De Paula</p>
                 </div>
                 <div class="content">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took </p>
+                    <p>Com anos de experiência, João é um fotógrafo de casamentos completo. 
+                       Seja um casamento clássico, rústico ou moderno, ele adapta seu estilo para 
+                       atender às necessidades de cada casal, garantindo fotos impecáveis e repletas 
+                       de momentos inesquecíveis.</p>
 
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the </p>
-                    <a href=""><button class="btn-default">Ler Mais</button></a>
+                    <a href="/Joao"><button class="btn-default">Ler Mais</button></a>
                 </div>
             </div>
             
@@ -22,16 +21,14 @@
             <div class="card">
                 <div class="img">
                     <img src="/public/img/fotografo-2.jpg" alt="">
-                    <p>Joao Fagas De Paula</p>
+                    <p>Ana Clara Pereira</p>
                 </div>
                 <div class="content">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took </p>
-
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the </p>
-                    <a href=""><button class="btn-default">Ler Mais</button></a>
+                    <p>Ana, a fotógrafa de casamentos que transforma sonhos em realidade.
+                       Com um olhar artístico e experiência, ela captura a emoção de cada momento,
+                       criando memórias inesquecíveis para os noivos. Seus álbuns personalizados são
+                       verdadeiras obras de arte.</p>
+                    <a href="/Ana"><button class="btn-default">Ler Mais</button></a>
                 </div>
             </div>
             
@@ -40,15 +37,12 @@
             <div class="card">
                 <div class="img">
                     <img src="/public/img/fotografo-3.jpg" alt="">
-                    <p>Joao Fagas De Paula</p>
+                    <p>Paulo Ferreira de Lima</p>
                 </div>
                 <div class="content">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took </p>
-
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the </p>
+                    <p>A paixão de Paulo por fotografia se reflete em cada clique. Ele oferece um serviço
+                       personalizado e atencioso, buscando entender os desejos dos noivos e entregando um
+                       álbum de casamento que retrata a essência do grande dia com qualidade e profissionalismo.</p>
                     <a href=""><button class="btn-default">Ler Mais</button></a>
                 </div>
             </div>
@@ -59,14 +53,12 @@
                 <div class="img">
                     <img src="/public/img/fotografo-4.jpg" alt="">
                     <p>Fabiano de Melo Cunha</p>
-                </div>
+            </div>
                 <div class="content">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took </p>
-
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the </p>
+                    <p>Fabiano é um fotógrafo de casamentos apaixonado por capturar a emoção e a
+                       autenticidade de cada momento especial. Com um olhar artístico e sensibilidade
+                       única, ele cria histórias atemporais, transformando cada casamento em uma obra de
+                       arte personalizada.</p>
                     <a href=""><button class="btn-default">Ler Mais</button></a>
                 </div>
             </div>
