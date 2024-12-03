@@ -1,15 +1,16 @@
 <template>
   <div>
-    <Banner />
+    <Index />
   </div>
 </template>
 
 <script>
-import Banner from '../components/Banner.vue'
+import Index from '@/components/Index.vue';
+
 export default{
   name: 'LuaMel',
   components:{
-    Banner
+    Index
   }
 }
 </script>

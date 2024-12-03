@@ -58,7 +58,7 @@
             <div class="card">
                 <div class="img">
                     <img src="/public/img/fotografo-4.jpg" alt="">
-                    <p>Joao Fagas De Paula</p>
+                    <p>Fabiano de Melo Cunha</p>
                 </div>
                 <div class="content">
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
