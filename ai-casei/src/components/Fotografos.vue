@@ -43,7 +43,7 @@
                     <p>A paixão de Paulo por fotografia se reflete em cada clique. Ele oferece um serviço
                        personalizado e atencioso, buscando entender os desejos dos noivos e entregando um
                        álbum de casamento que retrata a essência do grande dia com qualidade e profissionalismo.</p>
-                    <a href=""><button class="btn-default">Ler Mais</button></a>
+                    <a href="/Paulo"><button class="btn-default">Ler Mais</button></a>
                 </div>
             </div>
             
@@ -59,7 +59,7 @@
                        autenticidade de cada momento especial. Com um olhar artístico e sensibilidade
                        única, ele cria histórias atemporais, transformando cada casamento em uma obra de
                        arte personalizada.</p>
-                    <a href=""><button class="btn-default">Ler Mais</button></a>
+                    <a href="/Fabiano"><button class="btn-default">Ler Mais</button></a>
                 </div>
             </div>
             

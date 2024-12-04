@@ -31,7 +31,7 @@
         <div class="forms">
           <div class="form">
             <h1>Joao Fagas De Paula</h1>
-            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
+            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.5 <span>Otimo</span></h3>
             <h3><i class="fa-solid fa-location-dot"></i> <a href="">Sabara, Centro 192</a></h3>
             <div class="colums">
             <div class="colum">
@@ -39,20 +39,20 @@
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-coins"></i> Preço</h3>
-              <h4>R$ 240,00 p/ Album</h4>
+              <h4>R$ 240,00 p/ Hora</h4>
             </div>
             <div class="colum">
-              <h3><i class="fa-solid fa-calendar-days"></i> Horario</h3>
-              <h4>Segunda a Sabado 8hrs a 22hrs</h4>
+              <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
+              <h4>Segunda à Sábado 8hrs às 22hrs</h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>Mais de <span>67</span> clientes satisfeitos</h4>
+              <h4>Mais de <span>67</span> Clientes Satisfeitos</h4>
             </div>
   
           </div>
           
-          <button class="btn-default">Adicionar ao Carrinho</button>
+          <button class="btn-default">Adicionar ao Pacote</button>
           </div>
         </div>
   
@@ -62,15 +62,15 @@
         <div class="conteiner-cont">
           <div class="cont-p">
             <i class="fa-solid fa-camera"></i>
-            <p>fotografo</p>
+            <p>Fotógrafo</p>
           </div>
           <div class="cont-p">
             <i class="fa-solid fa-person"></i>
-            <p>otima interação</p>
+            <p>Ótima Interação</p>
           </div>
           <div class="cont-p">
             <i class="fa-solid fa-icons"></i>
-            <p>qualidade impecavel</p>
+            <p>Qualidade Impecável</p>
           </div>
         </div>
         <div class="informacao">
@@ -100,7 +100,7 @@
       <div class="feedback">
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p1.jpg" alt="" width="60px" height="60px">        
+          <img src="/public/img/p3.jpg" alt="" width="60px" height="60px">        
           <p>Enviada 12/11/24 12:51 hrs</p>
           </div>
           <div class="rodape">
@@ -113,28 +113,26 @@
         </div>  
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p1.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 12/11/24 12:51 hrs</p>
+          <img src="/public/img/null.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 08/12/24 08:10 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.9</h3>
-            <h2>Excelente trabalho</h2>
-            <p>João tem um talento impressionante para capturar momentos especiais de maneira natural 
-            e emocionante. Seu estilo mistura criatividade, técnica e um olhar único, tornando suas fotos
-            verdadeiras obras de arte.</p>
+            <h3><i class="fa-solid fa-star"></i> 4.4</h3>
+            <h2>Parabens</h2>
+            <p>João é extremamente organizado e comprometido com prazos. Trabalhar com ele é sempre tranquilo,
+               porque ele planeja tudo com antecedência e cumpre o que promete. Dá para confiar 100%!</p>
           </div> 
         </div>
         <div class="card">
           <div class="sub">
           <img src="/public/img/p1.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 12/11/24 12:51 hrs</p>
+          <p>Enviada 04/09/24 00:23 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.9</h3>
-            <h2>Excelente trabalho</h2>
-            <p>João tem um talento impressionante para capturar momentos especiais de maneira natural 
-            e emocionante. Seu estilo mistura criatividade, técnica e um olhar único, tornando suas fotos
-            verdadeiras obras de arte.</p>
+            <h3><i class="fa-solid fa-star"></i> 4.5</h3>
+            <h2>Exemplo de profissional</h2>
+            <p>João é um exemplo de excelência no atendimento. Ele foi atencioso, paciente e conseguiu entender exatamente
+              o que eu precisava. Graças a ele, tive uma experiência muito positiva e voltarei a fazer negócios com certeza.</p>
           </div> 
         </div>    
       </div>
@@ -182,7 +180,7 @@
     };
     </script>
     
-    <style scoped>
+<style scoped>
 
 .informacao{
     padding: 40px;
@@ -244,10 +242,15 @@
       background-color: rgb(253, 253, 253);
       width: 290px;
       height: 390px;
-      margin: 20px;
+      margin: 30px;
       overflow: hidden;
       border-radius: 10px;
       box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  .card:hover{
+    
+    box-shadow: rgba(0, 0, 0, 0.24) 3px 7px 10px;
   }
   
   .btn-default{
