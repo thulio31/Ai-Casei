@@ -1,15 +1,15 @@
 <template>
   <div>
-    <Cards />
+    <CardEspacos />
   </div>
 </template>
 
 <script>
-import Cards from '../components/Cards.vue'
+import CardEspacos from '../components/Lugares/CardEspacos.vue'
 export default{
   name: 'Espacos',
   components:{
-    Cards
+    CardEspacos
   }
 }
 </script>

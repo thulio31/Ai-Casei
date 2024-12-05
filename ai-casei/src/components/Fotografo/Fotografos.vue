@@ -73,8 +73,6 @@
     justify-content: center;
     display: flex;
     padding-top: 100px ;
-    
-
 }
 .card{    
     max-width:90%;
