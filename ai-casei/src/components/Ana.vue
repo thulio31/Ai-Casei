@@ -31,7 +31,7 @@
       <div class="forms">
         <div class="form">
           <h1>Ana Clara Pereira</h1>
-          <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.6 <span>Ótimo</span></h3>
+          <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
           <h3><i class="fa-solid fa-location-dot"></i> <a href="">Sabara, Centro 192</a></h3>
           <div class="colums">
           <div class="colum">
@@ -42,8 +42,8 @@
             <h4>R$ 290,00 p/ Hora</h4>
           </div>
           <div class="colum">
-            <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
-            <h4>Segunda à Sábado 7:30hrs às 21hrs</h4>
+            <h3><i class="fa-solid fa-calendar-days"></i> Horario</h3>
+            <h4>Segunda a Sabado 7:30hrs a 21hrs</h4>
           </div>
           <div class="colum">
             <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
@@ -52,7 +52,7 @@
 
         </div>
         
-        <button class="btn-default">Adicionar ao Pacote</button>
+        <button class="btn-default">Adicionar ao P</bteutton>
         </div>
       </div>
 
@@ -70,7 +70,7 @@
         </div>
         <div class="cont-p">
           <i class="fa-solid fa-icons"></i>
-          <p>Fotos nitidas e belas</p>
+          <p>Fotos Nítidas e Belas</p>
         </div>
       </div>
       <div class="informacao">

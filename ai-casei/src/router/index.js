@@ -4,7 +4,7 @@ import Joao from '@/components/Fotografo/Joao.vue'
 import Ana from '@/components/Fotografo/Ana.vue'
 import Paulo from '@/components/Fotografo/Paulo.vue'
 import Fabiano from '@/components/Fotografo/Fabiano.vue'
-import Fotografos from '@/components/Fotografos.vue'
+import Fotografos from '@/components/Fotografo/Fotografos.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),

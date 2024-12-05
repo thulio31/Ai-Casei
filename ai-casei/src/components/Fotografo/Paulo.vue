@@ -119,7 +119,7 @@
           <div class="rodape">
             <h3><i class="fa-solid fa-star"></i> 4.3</h3>
             <h2>Excelente trabalho</h2>
-            <p>"Paulo também é um grande defensor da fotografia como forma de expressão artística e social. Ele realiza exposições e workshops, compartilhando suas experiências e incentivando novos talentos a explorarem seu potencial criativo. Seu trabalho já foi reconhecido em diversas publicações e premiações, consolidando sua reputação como um dos fotógrafos mais inspiradores de sua geração."</p>
+            <p>"Paulo também é um grande defensor da fotografia como forma de expressão artística e social. Ele realiza exposições e workshops, compartilhando suas experiências e incentivando novos talentos a explorarem seu potencial criativo."</p>
           </div> 
         </div>    
       </div>
