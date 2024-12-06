@@ -1,11 +1,13 @@
 <template>
   <div>
     <Flag />
-    <Cards />   
+    <Cards /> 
+    <Praia />  
   </div>
 </template>
 
 <script>
+import Praia from '@/components/Lugares/Praia.vue'
 import Apresentacao from '../components/Apresentacao.vue'
 import Cards from '../components/Cards.vue'
 import Flag from '../components/Flag.vue'
@@ -18,6 +20,7 @@ export default{
   components:{
     Cards,
     Flag,
+    Praia,
     Banner,
     Carousel,
     Paises,

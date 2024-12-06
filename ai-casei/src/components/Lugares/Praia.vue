@@ -47,7 +47,7 @@
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>Mais de <span>92</span>Clientes Satisfeitos</h4>
+              <h4>Mais de <span>92</span> Clientes Satisfeitos</h4>
             </div>
   
           </div>
@@ -79,12 +79,11 @@
             <p>Fabiano, um olhar único para cada momento. Com anos de experiência e paixão pela fotografia, ele captura a essência das pessoas e das paisagens, transformando cada clique em uma obra de arte.</p>
             
                 <h2>Formação e Trajetória</h2>
-            <p>
-              Fabiano, desde a infância, demonstrava paixão pela fotografia. Sua formação e experiência o levaram a se tornar um fotógrafo renomado, conhecido por suas imagens impactantes e cheias de emoção. Seu trabalho explora diversos gêneros, como natureza e retrato, e já foi exibido em diversas galerias.
+          <p>
             </p>
   
                 <h2>Estilo Fotográfico</h2>
-          <p>A fotografia captura a beleza da natureza e a introspecção humana. A luz solar filtrada pelas folhas cria um jogo de sombras que se assemelha a uma dança. Um rapaz, em meio a esse cenário, encontra paz e tranquilidade. A imagem evoca sentimentos de serenidade e conexão com a natureza.</p>
+          <p></p>
           </div>
         </div>
       </div>
