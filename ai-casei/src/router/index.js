@@ -5,6 +5,8 @@ import Ana from '@/components/Fotografo/Ana.vue'
 import Paulo from '@/components/Fotografo/Paulo.vue'
 import Fabiano from '@/components/Fotografo/Fabiano.vue'
 import Fotografos from '@/components/Fotografo/Fotografos.vue'
+import Lugares from '@/components/Lugares/Lugares.vue'
+import praiacosta from '@/components/Lugares/praiacosta.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -63,6 +65,18 @@ const router = createRouter({
       path: '/Fabiano',
       name: 'Fabiano',
       component: Fabiano,
+    },
+    
+    {
+      path: '/Lugares',
+      name: 'Lugares',
+      component: Lugares,
+    },
+
+    {
+      path: '/praiacosta',
+      name: 'praiacosta',
+      component: praiacosta,
     }
   ],
 })

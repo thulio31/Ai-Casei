@@ -14,15 +14,13 @@
             </div>
             <div class="card">
                 <div class="img-card">
-                    <img src="/img/img-1.jpg" alt="">
+                    <img src="/img/lugar1.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>Teste Casamento</h3>
-                    <p>lorem ipsulum test ray humber
-                        lorem ipsulum test ray humber
-                        ray humber
+                    <h3>Lugares</h3>
+                    <p>Selecione aqui o melhor espaço para casar com o seu amor 
                     </p>
-                    <button class="btn-default">Ver Pacotes</button>
+                    <a href="/Lugares"><button class="btn-default">Ver Pacotes</button></a>
                 </div>
             </div>
             <div class="card">
