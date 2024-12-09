@@ -7,6 +7,9 @@ import Fabiano from '@/components/Fotografo/Fabiano.vue'
 import Fotografos from '@/components/Fotografo/Fotografos.vue'
 import Lugares from '@/components/Lugares/Lugares.vue'
 import praiacosta from '@/components/Lugares/praiacosta.vue'
+import Login from '@/components/Login.vue'
+import Register from '@/components/Register.vue'
+import profile from '@/components/Profile.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -16,6 +19,22 @@ const router = createRouter({
       name: 'Home',
       component: Home,
     },
+    ,
+    {
+      path: "/profile",
+      name: "Profile",
+      component: profile,
+  },
+    {
+      path: "/login",
+      name: "Login",
+      component: Login,
+  },
+  {
+    path: "/register",
+    name: "Register",
+    component: Register,
+},
     {
       path: '/Espacos',
       name: 'Espacos',

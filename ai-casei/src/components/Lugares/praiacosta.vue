@@ -30,8 +30,8 @@
         </main>
         <div class="forms">
           <div class="form">
-            <h1>Ana Clara Pereira</h1>
-            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.6 <span>Ótimo</span></h3>
+            <h1>Praia da costa</h1>
+            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
             <h3><i class="fa-solid fa-location-dot"></i> <a href="">Sabara, Centro 192</a></h3>
             <div class="colums">
             <div class="colum">
@@ -39,15 +39,15 @@
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-coins"></i> Preço</h3>
-              <h4>R$ 290,00 p/ Hora</h4>
+              <h4>R$ 400,00 </h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
-              <h4>Segunda à Sábado 7:30hrs às 21hrs</h4>
+              <h4>Segunda à Sábado 7:00hrs às 23hrs</h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>Mais de <span>79</span> Clientes Satisfeitos</h4>
+              <h4>Mais de <span>33</span> Clientes Satisfeitos</h4>
             </div>
   
           </div>
@@ -61,7 +61,7 @@
       <div class="content">
         <div class="conteiner-cont">
           <div class="cont-p">
-            <i class="fa-solid fa-camera"></i>
+            <i class="fa-regular fa-earth-americas"></i>
             <p>Fotógrafa</p>
           </div>
           <div class="cont-p">
