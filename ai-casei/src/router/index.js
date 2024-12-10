@@ -7,6 +7,10 @@ import Fabiano from '@/components/Fotografo/Fabiano.vue'
 import Fotografos from '@/components/Fotografo/Fotografos.vue'
 import Lugares from '@/components/Lugares/Lugares.vue'
 import praiacosta from '@/components/Lugares/praiacosta.vue'
+import pontanegra from '@/components/Lugares/pontanegra.vue'
+import alameda from '@/components/Lugares/alameda.vue'
+import dolees from '@/components/Lugares/dolees.vue'
+import igrejacalvario from '@/components/Lugares/igrejacalvario.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -77,6 +81,27 @@ const router = createRouter({
       path: '/praiacosta',
       name: 'praiacosta',
       component: praiacosta,
+    },
+
+    {
+      path: '/pontanegra',
+      name: 'pontanegra',
+      component: pontanegra,
+    },
+    {
+      path: '/alameda',
+      name: 'alameda',
+      component: alameda,
+    },
+    {
+      path: '/dolees',
+      name: 'dolees',
+      component: dolees,
+    },
+    {
+      path: '/igrejacalvario',
+      name: 'igrejacalvario',
+      component: igrejacalvario,
     }
   ],
 })

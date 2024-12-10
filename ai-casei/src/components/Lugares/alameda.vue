@@ -30,16 +30,16 @@
         </main>
         <div class="forms">
           <div class="form">
-            <h1>Praia da Costa</h1>
-            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
-            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Vila Velha ES</a></h3>
+            <h1>Sitio Alameda</h1>
+            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 5.0 <span>Excelente</span></h3>
+            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Piracicaba SP</a></h3>
             <div class="colums">
             <div class="colum">
   
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-coins"></i> Preço</h3>
-              <h4>Aluguel desde R$ 400,00 </h4>
+              <h4>Aluguel desde R$ 415,00 </h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
@@ -47,7 +47,7 @@
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>10 a <span>200</span> convidados</h4>
+              <h4>20 a <span>140</span> convidados</h4>
             </div>
   
           </div>
@@ -61,8 +61,8 @@
       <div class="content">
         <div class="conteiner-cont">
           <div class="cont-p">
-            <i class="fa-solid fa-umbrella-beach"></i>
-            <p>Praia</p>
+            <i class="fa-solid fa-signs-post"></i>
+            <p>Sitio</p>
           </div>
           <div class="cont-p">
             <i class="fa-solid fa-bed"></i>
@@ -76,50 +76,50 @@
         <div class="informacao">
           <div class="info">
             
-            <p>A Praia da Costa é um destino encantador para casamentos ao ar livre. Com suas areias douradas, o som das ondas ao fundo e o pôr do sol deslumbrante, ela oferece um cenário romântico e inesquecível para a troca de votos. É ideal tanto para cerimônias intimistas quanto para celebrações maiores.</p>
+            <p>O Sítio Alameda, em São Paulo, é um local encantador para casamentos ao ar livre. Com vastas áreas de jardins floridos, campos verdes e árvores frondosas, oferece um cenário bucólico e romântico, perfeito para uma cerimônia intimista. </p>
             
                 <h2>Espaços e Estruturas para Eventos</h2>
           <p>
-            A região da Praia da Costa conta com uma ampla variedade de opções para recepções de casamento, desde hotéis e restaurantes à beira-mar até espaços especializados em eventos. Muitos locais oferecem pacotes completos.</p>
+            O Sítio Alameda oferece uma estrutura completa para a realização de casamentos. Além do espaço aberto para cerimônias, o local conta com um salão elegante e sofisticado para a recepção, adaptável a diferentes estilos de decoração. </p>
   
                 <h2>Experiência Única para Convidados</h2>
           <p>
-            Casar na Praia da Costa é também uma forma de proporcionar uma experiência memorável aos convidados. Eles podem aproveitar a viagem para relaxar em um dos destinos mais belos do Espírito Santo, desfrutar da gastronomia local e participar de atividades recreativas na região, tornando o casamento um momento inesquecível para todos.</p>
+            Casar no Sítio Alameda não é apenas uma experiência única para os noivos, mas também para os convidados. O ambiente campestre oferece diversas atividades recreativas, como passeios a cavalo, caminhadas ao ar livre e relaxamento nas áreas verdes. </p>
           </div>
         </div>
       </div>
       <div class="feedback">
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p4.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 12/12/24 11:29 hrs</p>
+          <img src="/public/img/p5.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 04/10/24 11:50 hrs</p>
           </div>
           <div class="rodape">
             <h3><i class="fa-solid fa-star"></i> 4.9</h3>
-            <h2>Tudo perfeito</h2>
-            <p>A Praia da Costa foi o cenário perfeito para o nosso casamento! O pôr do sol é simplesmente mágico, e as fotos ficaram incríveis. Recomendo demais para quem quer algo romântico e inesquecível.</p>
+            <h2>Excelente</h2>
+            <p>"Nosso casamento no Sítio Alameda foi simplesmente perfeito! O lugar tem uma energia única, rodeado de verde e tranquilidade. A equipe foi super atenciosa, e cada detalhe do evento ficou maravilhoso. Super recomendo!"</p>
           </div> 
         </div>  
         <div class="card">
           <div class="sub">
-          <img src="/public/img/null.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 17/10/24 14:50 hrs</p>
+          <img src="/public/img/p8.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 29/11/24 22:30 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.8</h3>
-            <h2>Parabens, muito bom</h2>
-            <p>Se você sonha com um casamento à beira-mar, a Praia da Costa é perfeita! A vibe é maravilhosa, mas recomendo sempre ter um plano B para o clima. No meu caso, deu tudo certo, e foi um dia inesquecível.</p>
+            <h3><i class="fa-solid fa-star"></i> 5.0</h3>
+            <h2>Lindo</h2>
+            <p>"Escolhemos o Sítio Alameda para o nosso grande dia e não poderíamos estar mais felizes com a escolha. O ambiente é super acolhedor e natural, perfeito para quem busca um casamento no campo, com muito charme e conforto."</p>
           </div> 
         </div>
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p6.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 29/7/24 18:25 hrs</p>
+          <img src="/public/img/p4.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 19/10/24 17:38 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.7</h3>
+            <h3><i class="fa-solid fa-star"></i> 4.9</h3>
             <h2>Excelente lugar</h2>
-            <p>Casei na Praia da Costa e amei a experiência! O lugar é lindo, super acessível para os convidados, e ainda conseguimos opções ótimas de fornecedores na região.</p>
+            <p>"Casamos no Sítio Alameda e foi uma experiência maravilhosa! A paisagem é espetacular e dá uma sensação de aconchego. O melhor de tudo é que a equipe do sítio cuidou de tudo com muito carinho, o que fez toda a diferença."</p>
           </div> 
         </div>    
       </div>
@@ -128,19 +128,19 @@
     </template>    
     <script>
     export default {
-      name: 'praiacosta',
+      name: 'alameda',
       data() {
         return {
           currentIndex: 0, // Índice do slide atual
           items: [
             {
-              image: "img/praiacosta1.jpg",            
+              image: "img/alameda1.jpg",            
             },
             {
-              image: "img/praiacosta2.jpg",            
+              image: "img/alameda2.jpg",            
             },
             {
-              image: "img/praiacosta3.jpg",
+              image: "img/alameda3.jpg",
             },
           ],
         };
@@ -167,7 +167,7 @@
     };
     </script>
     
-  <style scoped>
+<style scoped>
   
   .informacao{
     padding: 40px;

@@ -30,16 +30,16 @@
         </main>
         <div class="forms">
           <div class="form">
-            <h1>Praia da Costa</h1>
-            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
-            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Vila Velha ES</a></h3>
+            <h1>Chacará do lees</h1>
+            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.3 <span>Bom</span></h3>
+            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Sabará MG</a></h3>
             <div class="colums">
             <div class="colum">
   
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-coins"></i> Preço</h3>
-              <h4>Aluguel desde R$ 400,00 </h4>
+              <h4>Aluguel desde R$ 315,00 </h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
@@ -47,7 +47,7 @@
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>10 a <span>200</span> convidados</h4>
+              <h4>20 a <span>100</span> convidados</h4>
             </div>
   
           </div>
@@ -61,8 +61,8 @@
       <div class="content">
         <div class="conteiner-cont">
           <div class="cont-p">
-            <i class="fa-solid fa-umbrella-beach"></i>
-            <p>Praia</p>
+            <i class="fa-solid fa-signs-post"></i>
+            <p>Chacará</p>
           </div>
           <div class="cont-p">
             <i class="fa-solid fa-bed"></i>
@@ -76,50 +76,53 @@
         <div class="informacao">
           <div class="info">
             
-            <p>A Praia da Costa é um destino encantador para casamentos ao ar livre. Com suas areias douradas, o som das ondas ao fundo e o pôr do sol deslumbrante, ela oferece um cenário romântico e inesquecível para a troca de votos. É ideal tanto para cerimônias intimistas quanto para celebrações maiores.</p>
+            <p>A Chácara do Lees, localizada em uma região tranquila de Sabará, é o local ideal para casamentos ao ar livre. Com belos jardins, lagoas e uma paisagem exuberante, o espaço oferece um ambiente romântico e acolhedor para a cerimônia de casamento. A natureza ao redor, com árvores imponentes e campos verdes, cria um cenário único e inesquecível, perfeito para a troca de votos em grande estilo.</p>
             
                 <h2>Espaços e Estruturas para Eventos</h2>
           <p>
-            A região da Praia da Costa conta com uma ampla variedade de opções para recepções de casamento, desde hotéis e restaurantes à beira-mar até espaços especializados em eventos. Muitos locais oferecem pacotes completos.</p>
+            A Chácara do Lees conta com uma infraestrutura moderna e bem equipada para casamentos de diferentes estilos. O local possui amplos salões internos e áreas externas cobertas, ideais para recepções e festas. A decoração pode ser personalizada de acordo com o gosto dos noivos, com opções que vão do rústico ao sofisticado.  </p>
   
                 <h2>Experiência Única para Convidados</h2>
           <p>
-            Casar na Praia da Costa é também uma forma de proporcionar uma experiência memorável aos convidados. Eles podem aproveitar a viagem para relaxar em um dos destinos mais belos do Espírito Santo, desfrutar da gastronomia local e participar de atividades recreativas na região, tornando o casamento um momento inesquecível para todos.</p>
+            Além da cerimônia e festa, a Chácara do Lees proporciona aos convidados uma experiência completa no campo. Durante o evento, eles podem aproveitar a tranquilidade do ambiente, com opções de lazer como passeios pelas trilhas, passeios a cavalo e atividades ao ar livre.</p>
           </div>
         </div>
       </div>
       <div class="feedback">
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p4.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 12/12/24 11:29 hrs</p>
+          <img src="/public/img/p9.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 18/11/24 9:18 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.9</h3>
-            <h2>Tudo perfeito</h2>
-            <p>A Praia da Costa foi o cenário perfeito para o nosso casamento! O pôr do sol é simplesmente mágico, e as fotos ficaram incríveis. Recomendo demais para quem quer algo romântico e inesquecível.</p>
+            <h3><i class="fa-solid fa-star"></i> 4.4</h3>
+            <h2>Muito Bom</h2>
+            <p>"A Chácara do Less em Sabará foi o lugar perfeito para o nosso casamento! A natureza ao redor é maravilhosa, e o espaço é super versátil, permitindo uma decoração linda e aconchegante. Ficamos encantados!"
+            </p>
           </div> 
         </div>  
         <div class="card">
           <div class="sub">
           <img src="/public/img/null.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 17/10/24 14:50 hrs</p>
+          <p>Enviada 29/11/24 22:30 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.8</h3>
-            <h2>Parabens, muito bom</h2>
-            <p>Se você sonha com um casamento à beira-mar, a Praia da Costa é perfeita! A vibe é maravilhosa, mas recomendo sempre ter um plano B para o clima. No meu caso, deu tudo certo, e foi um dia inesquecível.</p>
+            <h3><i class="fa-solid fa-star"></i> 4.5</h3>
+            <h2>Lindo</h2>
+            <p>"Nosso casamento na Chácara do Less foi incrível! O lugar é super acolhedor, com muita área verde e uma estrutura maravilhosa para festas. A tranquilidade do local deu todo o clima que queríamos para o nosso grande dia."
+            </p>
           </div> 
         </div>
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p6.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 29/7/24 18:25 hrs</p>
+          <img src="/public/img/null.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 19/10/24 17:38 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.7</h3>
+            <h3><i class="fa-solid fa-star"></i> 4.3</h3>
             <h2>Excelente lugar</h2>
-            <p>Casei na Praia da Costa e amei a experiência! O lugar é lindo, super acessível para os convidados, e ainda conseguimos opções ótimas de fornecedores na região.</p>
+            <p>"Casar na Chácara do Less foi uma experiência inesquecível. O espaço é lindo, tem uma vibe rústica, mas ao mesmo tempo sofisticada, e a equipe foi super atenciosa. Nossos convidados amaram o lugar!"
+            </p>
           </div> 
         </div>    
       </div>
@@ -128,19 +131,19 @@
     </template>    
     <script>
     export default {
-      name: 'praiacosta',
+      name: 'dolees',
       data() {
         return {
           currentIndex: 0, // Índice do slide atual
           items: [
             {
-              image: "img/praiacosta1.jpg",            
+              image: "img/dolees1.jpg",            
             },
             {
-              image: "img/praiacosta2.jpg",            
+              image: "img/dolees2.jpg",            
             },
             {
-              image: "img/praiacosta3.jpg",
+              image: "img/dolees3.jpg",
             },
           ],
         };
@@ -167,7 +170,7 @@
     };
     </script>
     
-  <style scoped>
+<style scoped>
   
   .informacao{
     padding: 40px;

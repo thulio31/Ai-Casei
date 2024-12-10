@@ -25,7 +25,7 @@
             </div>
                 <div class="content">
                     <h2>Ponta Negra</h2>
-                    <h3><i class="fa-solid fa-star"></i> 4.5 <span> Ponta Negra - RJ</span></h3>
+                    <h3><i class="fa-solid fa-star"></i> 4.5 <span> Ponta Negra - RS</span></h3>
                     <p>A Praia de Ponte Negra,  é conhecida por sua beleza natural e atmosfera tranquila.
                     Tem  um cenário rústico, apresenta uma extensa faixa de areia dourada, mar com ondas
                     fortes, e é cercada por vegetação nativa e formações rochosas. </p>

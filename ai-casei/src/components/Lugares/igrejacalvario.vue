@@ -30,16 +30,16 @@
         </main>
         <div class="forms">
           <div class="form">
-            <h1>Praia da Costa</h1>
-            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
-            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Vila Velha ES</a></h3>
+            <h1>Igreja do Calvario</h1>
+            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.9 <span>Excelente</span></h3>
+            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Cardeal Arcoverde - SP</a></h3>
             <div class="colums">
             <div class="colum">
   
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-coins"></i> Preço</h3>
-              <h4>Aluguel desde R$ 400,00 </h4>
+              <h4>Aluguel desde R$ 295,00 </h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
@@ -47,7 +47,7 @@
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>10 a <span>200</span> convidados</h4>
+              <h4>20 a <span>90</span> convidados</h4>
             </div>
   
           </div>
@@ -61,65 +61,69 @@
       <div class="content">
         <div class="conteiner-cont">
           <div class="cont-p">
-            <i class="fa-solid fa-umbrella-beach"></i>
-            <p>Praia</p>
+            <i class="fa-solid fa-church"></i>
+            <p>Igreja</p>
           </div>
           <div class="cont-p">
             <i class="fa-solid fa-bed"></i>
-            <p>Hospedagem disponivel</p>
+            <p>Hospedagem indisponivel</p>
           </div>
           <div class="cont-p">
             <i class="fa-regular fa-calendar-check"></i>
-            <p>1 evento por dia</p>
+            <p>ate 3 evento por dia</p>
           </div>
         </div>
         <div class="informacao">
           <div class="info">
             
-            <p>A Praia da Costa é um destino encantador para casamentos ao ar livre. Com suas areias douradas, o som das ondas ao fundo e o pôr do sol deslumbrante, ela oferece um cenário romântico e inesquecível para a troca de votos. É ideal tanto para cerimônias intimistas quanto para celebrações maiores.</p>
+            <p>A Igreja do Calvário é um local encantador para casamentos religiosos, com sua arquitetura clássica e ambiente sereno, ideal para cerimônias solenes. Situada em uma região tranquila, a igreja oferece um cenário espiritual e significativo para a troca de votos. 
+            </p>
             
                 <h2>Espaços e Estruturas para Eventos</h2>
-          <p>
-            A região da Praia da Costa conta com uma ampla variedade de opções para recepções de casamento, desde hotéis e restaurantes à beira-mar até espaços especializados em eventos. Muitos locais oferecem pacotes completos.</p>
+          <p>A Igreja do Calvário conta com uma infraestrutura impecável para cerimônias religiosas, com um salão amplo e bancos confortáveis, que acomodam com elegância todos os convidados. A acústica do local é perfeita para a música sacra e as leituras, criando uma experiência única.
+         </p>
   
                 <h2>Experiência Única para Convidados</h2>
-          <p>
-            Casar na Praia da Costa é também uma forma de proporcionar uma experiência memorável aos convidados. Eles podem aproveitar a viagem para relaxar em um dos destinos mais belos do Espírito Santo, desfrutar da gastronomia local e participar de atividades recreativas na região, tornando o casamento um momento inesquecível para todos.</p>
+          <p>Casar na Igreja do Calvário oferece uma experiência espiritual e cultural para todos os convidados. A cerimônia, realizada em um ambiente repleto de tradição religiosa, cria uma sensação de paz e reflexão. A localização da igreja também possibilita que os convidados desfrutem da tranquilidade do entorno e da beleza do local, fazendo do casamento um evento memorável tanto para os noivos quanto para todos que participam dessa celebração sagrada.
+         </p>
           </div>
         </div>
       </div>
       <div class="feedback">
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p4.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 12/12/24 11:29 hrs</p>
+          <img src="/public/img/p7.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 28/11/24 08:13 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.9</h3>
-            <h2>Tudo perfeito</h2>
-            <p>A Praia da Costa foi o cenário perfeito para o nosso casamento! O pôr do sol é simplesmente mágico, e as fotos ficaram incríveis. Recomendo demais para quem quer algo romântico e inesquecível.</p>
+            <h3><i class="fa-solid fa-star"></i> 4.8</h3>
+            <h2>Maravilhoso</h2>
+            <p>"Casar na Igreja do Calvário foi uma experiência única! A arquitetura da igreja é linda e cheia de detalhes, criando um ambiente acolhedor e sagrado para o nosso grande dia. A cerimônia ficou ainda mais especial nesse cenário."
+            </p>
           </div> 
         </div>  
         <div class="card">
           <div class="sub">
-          <img src="/public/img/null.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 17/10/24 14:50 hrs</p>
+          <img src="/public/img/p2.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 17/8/23 12:50 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.8</h3>
-            <h2>Parabens, muito bom</h2>
-            <p>Se você sonha com um casamento à beira-mar, a Praia da Costa é perfeita! A vibe é maravilhosa, mas recomendo sempre ter um plano B para o clima. No meu caso, deu tudo certo, e foi um dia inesquecível.</p>
+            <h3><i class="fa-solid fa-star"></i> 5.0</h3>
+            <h2>Incrivel</h2>
+            <p>"Escolhemos a Igreja do Calvário para o nosso casamento e não poderíamos ter feito uma escolha melhor. A igreja é super tradicional, com uma energia incrível. A equipe foi muito atenciosa e ajudou a tornar tudo perfeito."
+            </p>
           </div> 
         </div>
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p6.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 29/7/24 18:25 hrs</p>
+          <img src="/public/img/p9.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 24/7/24 20:34 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.7</h3>
-            <h2>Excelente lugar</h2>
-            <p>Casei na Praia da Costa e amei a experiência! O lugar é lindo, super acessível para os convidados, e ainda conseguimos opções ótimas de fornecedores na região.</p>
+            <h3><i class="fa-solid fa-star"></i> 4.9</h3>
+            <h2>Tudo lindo</h2>
+            <p>"A Igreja do Calvário é um lugar maravilhoso para quem busca uma cerimônia religiosa com muita história e beleza. O ambiente é imponente e ao mesmo tempo acolhedor, ideal para um casamento emocionante."
+            </p>
           </div> 
         </div>    
       </div>
@@ -128,19 +132,19 @@
     </template>    
     <script>
     export default {
-      name: 'praiacosta',
+      name: 'igrejacalvario',
       data() {
         return {
           currentIndex: 0, // Índice do slide atual
           items: [
             {
-              image: "img/praiacosta1.jpg",            
+              image: "img/igreja1.jpg",            
             },
             {
-              image: "img/praiacosta2.jpg",            
+              image: "img/igreja2.jpg",            
             },
             {
-              image: "img/praiacosta3.jpg",
+              image: "img/igreja3.jpg",
             },
           ],
         };
@@ -167,7 +171,7 @@
     };
     </script>
     
-  <style scoped>
+<style scoped>
   
   .informacao{
     padding: 40px;

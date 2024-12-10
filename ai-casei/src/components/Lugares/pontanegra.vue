@@ -30,16 +30,16 @@
         </main>
         <div class="forms">
           <div class="form">
-            <h1>Praia da Costa</h1>
-            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
-            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Vila Velha ES</a></h3>
+            <h1>Ponta Negra</h1>
+            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.5 <span>Otimo</span></h3>
+            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Natal RS</a></h3>
             <div class="colums">
             <div class="colum">
   
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-coins"></i> Preço</h3>
-              <h4>Aluguel desde R$ 400,00 </h4>
+              <h4>Aluguel desde R$ 570,00 </h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
@@ -47,7 +47,7 @@
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>10 a <span>200</span> convidados</h4>
+              <h4>20 a <span>270</span> convidados</h4>
             </div>
   
           </div>
@@ -76,50 +76,50 @@
         <div class="informacao">
           <div class="info">
             
-            <p>A Praia da Costa é um destino encantador para casamentos ao ar livre. Com suas areias douradas, o som das ondas ao fundo e o pôr do sol deslumbrante, ela oferece um cenário romântico e inesquecível para a troca de votos. É ideal tanto para cerimônias intimistas quanto para celebrações maiores.</p>
+            <p>A Praia de Ponta Negra, localizada em Natal, no Rio Grande do Norte, é um local deslumbrante para casamentos ao ar livre. Com sua areia branca, mar azul e a icônica presença do Morro do Careca ao fundo, ela oferece um cenário romântico e único para celebrações inesquecíveis.</p>
             
                 <h2>Espaços e Estruturas para Eventos</h2>
           <p>
-            A região da Praia da Costa conta com uma ampla variedade de opções para recepções de casamento, desde hotéis e restaurantes à beira-mar até espaços especializados em eventos. Muitos locais oferecem pacotes completos.</p>
+            A região de Ponta Negra possui uma excelente infraestrutura para casamentos. Hotéis de luxo, restaurantes com vista para o mar e espaços especializados em eventos oferecem pacotes completos, incluindo decoração temática, buffet com pratos regionais e serviços personalizados.</p>
   
                 <h2>Experiência Única para Convidados</h2>
           <p>
-            Casar na Praia da Costa é também uma forma de proporcionar uma experiência memorável aos convidados. Eles podem aproveitar a viagem para relaxar em um dos destinos mais belos do Espírito Santo, desfrutar da gastronomia local e participar de atividades recreativas na região, tornando o casamento um momento inesquecível para todos.</p>
+            Um casamento na Praia de Ponta Negra proporciona aos convidados uma experiência que vai além da celebração. Eles podem explorar as belezas naturais da região, como passeios de buggy pelas dunas e visitas às lagoas próximas. Além disso, a rica gastronomia local e a hospitalidade nordestina tornam o evento ainda mais memorável, garantindo que todos levem lembranças inesquecíveis desse momento especial.</p>
           </div>
         </div>
       </div>
       <div class="feedback">
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p4.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 12/12/24 11:29 hrs</p>
+          <img src="/public/img/p7.jpg" alt="" width="60px" height="60px">        
+          <p>Enviada 12/11/24 18:10 hrs</p>
           </div>
           <div class="rodape">
-            <h3><i class="fa-solid fa-star"></i> 4.9</h3>
-            <h2>Tudo perfeito</h2>
-            <p>A Praia da Costa foi o cenário perfeito para o nosso casamento! O pôr do sol é simplesmente mágico, e as fotos ficaram incríveis. Recomendo demais para quem quer algo romântico e inesquecível.</p>
+            <h3><i class="fa-solid fa-star"></i> 4.8</h3>
+            <h2>Muito lindo</h2>
+            <p>A Praia da Costa foi o cenário perfeito para o nosso casamento! O pôr do sol é simplesme"Casar na Praia de Ponta Negra foi a melhor escolha que fizemos! A vista do Morro do Careca ao fundo é simplesmente inesquecível. O lugar tem uma energia incrível para quem ama praia."</p>
           </div> 
         </div>  
         <div class="card">
           <div class="sub">
           <img src="/public/img/null.jpg" alt="" width="60px" height="60px">        
-          <p>Enviada 17/10/24 14:50 hrs</p>
+          <p>Enviada 29/11/24 22:30 hrs</p>
           </div>
           <div class="rodape">
             <h3><i class="fa-solid fa-star"></i> 4.8</h3>
-            <h2>Parabens, muito bom</h2>
-            <p>Se você sonha com um casamento à beira-mar, a Praia da Costa é perfeita! A vibe é maravilhosa, mas recomendo sempre ter um plano B para o clima. No meu caso, deu tudo certo, e foi um dia inesquecível.</p>
+            <h2>Otimo</h2>
+            <p>Se você sonha com um casamento à beira-mar, a Ponte da Negra é perfeita! A vibe é maravilhosa, mas recomendo sempre ter um plano B para o clima. No meu caso, deu tudo certo, e foi um dia inesquecível.</p>
           </div> 
         </div>
         <div class="card">
           <div class="sub">
-          <img src="/public/img/p6.jpg" alt="" width="60px" height="60px">        
+          <img src="/public/img/p3.jpg" alt="" width="60px" height="60px">        
           <p>Enviada 29/7/24 18:25 hrs</p>
           </div>
           <div class="rodape">
             <h3><i class="fa-solid fa-star"></i> 4.7</h3>
             <h2>Excelente lugar</h2>
-            <p>Casei na Praia da Costa e amei a experiência! O lugar é lindo, super acessível para os convidados, e ainda conseguimos opções ótimas de fornecedores na região.</p>
+            <p>"Ponta Negra é um sonho de lugar para casar. Fizemos nossa cerimônia no fim da tarde, e o pôr do sol com o mar ao fundo criou um cenário mágico. Recomendo muito!"</p>
           </div> 
         </div>    
       </div>
@@ -128,19 +128,19 @@
     </template>    
     <script>
     export default {
-      name: 'praiacosta',
+      name: 'pontanegra',
       data() {
         return {
           currentIndex: 0, // Índice do slide atual
           items: [
             {
-              image: "img/praiacosta1.jpg",            
+              image: "img/pontanegra1.jpg",            
             },
             {
-              image: "img/praiacosta2.jpg",            
+              image: "img/pontanegra2.jpg",            
             },
             {
-              image: "img/praiacosta3.jpg",
+              image: "img/pontanegra3.jpg",
             },
           ],
         };
@@ -167,7 +167,7 @@
     };
     </script>
     
-  <style scoped>
+<style scoped>
   
   .informacao{
     padding: 40px;
