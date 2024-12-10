@@ -20,6 +20,22 @@ const router = createRouter({
       name: 'Home',
       component: Home,
     },
+    ,
+    {
+      path: "/profile",
+      name: "Profile",
+      component: profile,
+  },
+    {
+      path: "/login",
+      name: "Login",
+      component: Login,
+  },
+  {
+    path: "/register",
+    name: "Register",
+    component: Register,
+},
     {
       path: '/Espacos',
       name: 'Espacos',
