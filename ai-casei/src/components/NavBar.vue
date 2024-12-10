@@ -1,22 +1,20 @@
 <template>
-    <div>
-        <div class="main-menu">
-            <div class="logo">
-                <RouterLink to="/">
-                    <li><i class="fa-solid fa-heart" style="color: #df2626;"></i>Ai Casei!</li>
-                </RouterLink>
-            </div>
-            <div class="menu">
-                <header> 
-                    <nav id="nav">
-                        <ul>
-                            <RouterLink to="/"><li>Meu casamento</li></RouterLink><!--colocar os diretorios -->
-                            <RouterLink to="Espacos"><li>Espaços</li></RouterLink>
-                            <RouterLink to="Noivos"><li>Noivos</li></RouterLink>     
-                            <RouterLink to="Servicos"><li>Serviços</li></RouterLink>                                                   
-                            <RouterLink to="LuaDeMel"><li>Lua de mel</li></RouterLink>                            
-                        </ul>
-                        <div class="auth-buttons">
+    <div class="main-menu">
+        <div class="logo">
+            <RouterLink to="/">
+                <li><i class="fa-solid fa-heart" style="color: #df2626;"></i> Ai Casei!</li>
+            </RouterLink>
+        </div>
+        <div class="menu">
+            <nav id="nav">
+                <ul class="nav-links">
+                    <RouterLink to="/"><li>Meu casamento</li></RouterLink>
+                    <RouterLink to="Espacos"><li>Espaços</li></RouterLink>
+                    <RouterLink to="Noivos"><li>Noivos</li></RouterLink>
+                    <RouterLink to="Servicos"><li>Serviços</li></RouterLink>
+                    <RouterLink to="LuaDeMel"><li>Lua de mel</li></RouterLink>
+                </ul>
+                <div class="auth-buttons">
                     <template v-if="isAuthenticated">
                         <RouterLink to="/profile" class="btn btn-login">Meu Perfil</RouterLink>
                         <button @click="handleLogout" class="btn btn-logout">Sair</button>
@@ -26,15 +24,13 @@
                         <RouterLink to="/register" class="btn btn-register">Cadastrar</RouterLink>
                     </template>
                 </div>
-                    </nav>
-                </header>
-            </div>
+            </nav>
         </div>
     </div>
 </template>
 
 <script>
-import  { mapGetters, mapActions} from "vuex";
+import { mapGetters, mapActions } from "vuex";
 
 export default {
     name: "NavBar",
@@ -42,16 +38,19 @@ export default {
         ...mapGetters(["isAuthenticated"]), // Verifica se o usuário está autenticado
     },
     methods: {
-        ...mapActions (["logout"]), // Mapeia a ação logout do Vuex
-         handleLogout() {
+        ...mapActions(["logout"]), // Mapeia a ação logout do Vuex
+        handleLogout() {
             this.logout(); // Limpa o estado do usuário no Vuex
             this.$router.push("/"); // Redireciona para a página inicial
         },
     },
- };
+};
 </script>
 
+
+
 <style scoped>
+
 .auth-buttons {
     display: flex;
     gap: 10px;
@@ -87,3 +86,4 @@ export default {
     color: #df2626;
 }
 </style>
+
